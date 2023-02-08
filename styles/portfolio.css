@@ -3,7 +3,7 @@
 }
 
 header{
-    background-color: lightgray;
+    background-color: lightyellow;
 }
 
 .navigation{
@@ -42,4 +42,15 @@ span{
     border-radius: 5px;
     color: white !important;
     font-weight: 700;
+}
+
+.section-one{
+    display: flex;
+    align-items: center;
+}
+
+.hardy-bg{
+    background-image: url(/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
