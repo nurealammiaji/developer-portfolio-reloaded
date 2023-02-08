@@ -2,6 +2,10 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+header{
+    background-color: lightgray;
+}
+
 .navigation{
     display: flex;
     justify-content: space-evenly;
