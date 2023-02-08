@@ -2,13 +2,17 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.common-width{
+    margin: 0px 100px;
+}
+
 header{
     background-color: lightyellow;
 }
 
 .navigation{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -44,7 +48,7 @@ span{
     font-weight: 700;
 }
 
-.section-one{
+.hardy-info{
     display: flex;
     align-items: center;
 }
